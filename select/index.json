@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "メロンソーダ",
+  "base_artist": "tricot",
+  "createdAt": "2026-03-25T03:15:34.969843Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "メロンソーダ",
+      "artist": "tricot",
+      "has_synced": true,
+      "path": "select/01_メロンソーダ_tricot.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "メロンソーダ",
+      "artist": "tricot",
+      "has_synced": false,
+      "path": "select/pl_01_メロンソーダ_tricot.txt"
+    }
+  ]
+}
